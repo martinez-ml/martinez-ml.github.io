@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
+gem "github-pages", group: :jekyll_plugins
+gem "webrick" # needed for Ruby 3 when serving locally
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
