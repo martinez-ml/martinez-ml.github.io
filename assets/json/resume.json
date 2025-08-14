@@ -37,7 +37,7 @@
       "position": "Research Assistant",
       "startDate": "3-2025",
       "endDate": "",
-      "summary": "Propose research idea to explore how model bias differs overtly and covertly for six different languages compared to English. Identify and run different LLMs with varying amounts of post-training and benchmark metrics to compare how post-training impacts overt and covert bias."
+      "summary": "Propose and execute research plan to explore how model bias differs overtly and covertly for six different languages compared to English. Identify and run different LLMs with varying amounts of post-training and benchmark metrics to compare how post-training impacts overt and covert bias."
     },
     {
       "name": "Dartmouth College Learning Intelligence Signal Processing (LISP) Lab",
