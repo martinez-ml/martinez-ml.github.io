@@ -3,8 +3,8 @@
     "name": "Joseph Martinez",
     "label": "Researcher",
     "image": "",
-    "email": "cs.martinez22@outlook.com",
-    "url": "https://martinez-cs.github.io",
+    "email": "joseph.martinez.cs@gmail.com",
+    "url": "https://martinez-ml.github.io/",
     "location": {
       "city": "Boston",
       "countryCode": "US",
@@ -36,8 +36,8 @@
       "name": "Dartmouth College Singh Lab",
       "position": "Research Assistant",
       "startDate": "3-2025",
-      "endDate": "",
-      "summary": "Propose and execute research plan to explore how model bias differs overtly and covertly for six different languages compared to English. Identify and run different LLMs with varying amounts of post-training and benchmark metrics to compare how post-training impacts overt and covert bias."
+      "endDate": "6-2025",
+      "summary": "Designed and executed a research plan to explore how model bias differs overtly and covertly for six different languages compared to English. Identified and applied different LLMs with varying amounts of post-training and benchmark metrics to compare how post-training impacts overt and covert bias."
     },
     {
       "name": "Dartmouth College Learning Intelligence Signal Processing (LISP) Lab",
