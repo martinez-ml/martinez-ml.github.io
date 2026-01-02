@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I've been accepted as a researcher at AI Safety Camp!
+I've been accepted as a research fellow at AI Safety Camp!

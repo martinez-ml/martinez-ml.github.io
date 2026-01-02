@@ -41,8 +41,8 @@ ninja.data = [{
       },{id: "news-i-graduated-from-my-master-s-program-at-dartmouth-tada",
           title: 'I graduated from my master’s program at Dartmouth! :tada:',
           description: "",
-          section: "News",},{id: "news-i-ve-been-accepted-as-a-researcher-at-ai-safety-camp",
-          title: 'I’ve been accepted as a researcher at AI Safety Camp!',
+          section: "News",},{id: "news-i-ve-been-accepted-as-a-research-fellow-at-ai-safety-camp",
+          title: 'I’ve been accepted as a research fellow at AI Safety Camp!',
           description: "",
           section: "News",},{
         id: 'social-bluesky',
