@@ -44,6 +44,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-ve-been-accepted-as-a-research-fellow-at-ai-safety-camp",
           title: 'I’ve been accepted as a research fellow at AI Safety Camp!',
           description: "",
+          section: "News",},{id: "news-i-ll-be-starting-my-ph-d-in-information-studies-at-the-university-of-maryland-this-fall-i-ll-be-joining-the-cats-computational-analysis-of-text-and-society-lab-with-professor-mendelsohn-to-focus-on-ai-bias-and-nlp-a-huge-thanks-to-cientifico-latino-if-you-re-an-underrepresented-student-interested-in-stem-graduate-school-i-highly-recommend-applying-to-their-gsmi-program-and-checking-out-their-resources",
+          title: 'I’ll be starting my Ph.D. in Information Studies at the University of Maryland...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
@@ -56,7 +59,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%63%73.%6D%61%72%74%69%6E%65%7A%32%32@%6F%75%74%6C%6F%6F%6B.%63%6F%6D", "_blank");
+          window.open("mailto:%6A%6F%73%65%70%68.%6D%61%72%74%69%6E%65%7A.%63%73@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',

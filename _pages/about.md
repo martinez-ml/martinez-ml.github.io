@@ -25,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm a recent Master's graduate from Dartmouth College. Previously, I got my Bachelor's in Computer Science at Amherst College.
+Hello! I'm an incoming Information Studies PhD student at the University of Maryland. I'm a part of the <a href="https://cats-group.github.io/">CATS (Computational Analysis of Text and Society)</a> lab!
 
-My research interests broadly are in AI safety and alignment. I'm interested in finding hidden biases in AI systems and exploring ways to minimize their harm.
+My research interests broadly are in AI bias, fairness, and NLP. I'm interested in finding hidden biases in AI systems and exploring ways to minimize their harm.
 
-I'm currently preparing to apply to PhD programs for Fall 2026.
+If you're an underrepresented student interested in STEM graduate school, reach out and I'll be happy to help out! I also recommend checking out the <a href="https://www.cientificolatino.com/gsmi">GSMI program</a>.
